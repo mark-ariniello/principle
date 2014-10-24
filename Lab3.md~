@@ -7,14 +7,18 @@ Mark Ariniello, Ahmed Alshakh
 In e1 + e2, e1 has precedence due to:
 
 e1 -----> e1
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 e1bope2 ----->e1'bope2
 
 where e1 is evaluated to e1' in order to change the order you should swicth which equation you evaluate first
 so before you do e1, do e2.
 
 e2 -----> e2
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
+
 e1bope2 -------> e1bope2'
 
 since this has e2 evaluated to e2' before e1 is evaluated.
