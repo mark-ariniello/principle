@@ -1,0 +1,6 @@
+test = function(x) {
+	return function cat(y) {
+		return x+y
+	}
+}
+jsy.print('test("a")("b")')
