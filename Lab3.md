@@ -6,7 +6,7 @@ Mark Ariniello, Ahmed Alshakh
 
 In e1 + e2, e1 has precedence due to:
 
-e1 -----> e1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e1 -----> e1
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 e1bope2 ----->e1'bope2
 
