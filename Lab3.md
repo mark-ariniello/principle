@@ -48,7 +48,7 @@ false = toBoolean(v1)
 
 v1 && e2 ------> v1
 
-Instead of 
+Which causes the false value to be used for the conidtional (e1 && e2) where as if it didn't short circuit it would evaluate e2 ---> v2 and see if v1 & v2 was true.
 
 
 

@@ -40,6 +40,16 @@ if ((3-a > 0) & (15*25^b/64 + c%n)) {stuff} and a > 3 then we would still have t
 
 ### B
 
+The small step schmantics for e1 && e2 do short circut becasue 
+
+false = toBoolean(v1)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+v1 && e2 ------> v1
+
+Instead of 
+
 
 
 
