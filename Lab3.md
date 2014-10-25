@@ -2,6 +2,12 @@ Lab#3 - CSCI 3155
 
 Mark Ariniello, Ahmed Alshakh
 
+###problem 2 
+
+### C
+
+In evaluating e1 ----> e1' we are always going to be evaluating e1 first and then e2, which makes these judgements deterministic. In addition whenever we have e2 -----> e2' there is no e1 because it has already been evaluated to v1.
+
 ###problem 3
 
 In e1 + e2, e1 has precedence due to:
